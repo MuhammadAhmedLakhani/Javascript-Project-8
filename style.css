@@ -95,16 +95,20 @@ body{
 }
 
 .s03 {
-    margin-left: 185px;
+    margin-left: 145px;
     
 }
 
 .d2, .d3 > span {
-    font-size: 25px;
+    font-size: 20px;
 }
 
 
 .data {
     display: flex;
     flex-wrap: wrap;
+}
+
+.d4 > img{
+    margin-left: 120px;
 }
