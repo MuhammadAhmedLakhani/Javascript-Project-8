@@ -112,3 +112,10 @@ body{
 .d4 > img{
     margin-left: 120px;
 }
+
+
+.d2,.d3,.d4,.d1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
